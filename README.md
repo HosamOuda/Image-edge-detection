@@ -39,13 +39,18 @@ then by passing the image through any of these filters so that we can reach our 
   <img src="https://cdn.discordapp.com/attachments/598537237738815488/824901557925576744/6_final_image.PNG"width="370" /> <br>
    <h3 style="text-align:center;">           🎆🎆🎊🎊🎈🎈 We reached our goal using Sobel Filter 🎈🎈🎊🎊🎆🎆 </h3><br>
   </ol>
+  
    <h3> 🎇🎇 By using Perwit filter 🎇🎇</h3><br>
-   <p> We apply the very same procedure as the sobel but we change in the values of pre-detrmined matrices that intializes the values of the x-direction and y-direction of the   filter window we get a final image like that </p>
+   <p> We apply the very same procedure as the sobel but we change in the values of pre-detrmined matrices that intializes the values of the x-direction and y-direction of the   filter window we get a final image like that: </p>
   <img src="https://cdn.discordapp.com/attachments/598537237738815488/824919776911949824/unknown.png"width="370" /> <br>
+  
+  
      <h3> 🎇🎇 By using First-order derivative filter 🎇🎇</h3><br>
-   <p> We apply the very same procedure as the sobel but we change in the values of pre-detrmined matrices that intializes the values of the x-direction and y-direction of the   filter window to be centered around x-axis and the y-axis so our final image will be like this </p>
+   <p> We apply the very same procedure as the sobel but we change in the values of pre-detrmined matrices that intializes the values of the x-direction and y-direction of the   filter window to be centered around x-axis and the y-axis so our final image will be like this: </p>
    <img src="https://cdn.discordapp.com/attachments/598537237738815488/824920497853956096/unknown.png"width="370" /> <br>
+   
+   
         <h3> 🎇🎇 By using Second-order derivative filter 🎇🎇</h3><br>
-   <p> As in sobel and perwit and first-order derivative but with differences in the x-direction matrix and y-direction matrix,  our final image for the Second-order derviative filter will be like this </p>
+   <p> As in sobel and perwit and first-order derivative but with differences in the x-direction matrix and y-direction matrix,  our final image for the Second-order derviative filter will be like this: </p>
   <img src="https://cdn.discordapp.com/attachments/598537237738815488/824920932187373588/unknown.png"width="370" /> <br>
 </ol>  
