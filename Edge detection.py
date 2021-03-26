@@ -304,7 +304,7 @@ def main():
 
     # Read Image from file_path
 
-    file_path = "c:/Users/Mohamad Elashree/Desktop/VisionFinalProject/test3.png"  # insert image path here
+    file_path = ""  # insert image path here
     img = cv2.imread(file_path, 0)
 
     # Apply Canny Edge Detector
