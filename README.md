@@ -37,7 +37,7 @@ then by passing the image through any of these filters so that we can reach our 
   <li> Finally we link the weak edges to the strong ones by checking the neighbors of them and set their value to be as high as possible if the have strong edge as their neigbors or 
   otherwise set them to the smallest possible value because in this case they are irrelevant and we don't need to show it</li><br>
   <img src="https://cdn.discordapp.com/attachments/598537237738815488/824901557925576744/6_final_image.PNG"width="370" /> <br>
-  
+   <h3> 🎆🎆🎊🎊🎈🎈 We reached our goal using Sobel Filter 🎈🎈🎊🎊🎆🎆 </h3><br>
   </ol>
   
   
